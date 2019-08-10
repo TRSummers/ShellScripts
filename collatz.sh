@@ -1,6 +1,8 @@
 #!/bin/bash
 	rm ./collatz.log
 
+# Calculting the collatz conjecture 
+ 
 	clear
 	echo "=========================================="
 	echo "=========================================="
