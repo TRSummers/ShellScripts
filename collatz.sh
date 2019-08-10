@@ -4,6 +4,7 @@
 # Calculting the collatz conjecture 
 # committing to tomtest branch
 # This is cool. You should try it.
+# okay stop, this is getting ridiculous!
  
 	clear
 	echo "=========================================="
