@@ -2,6 +2,7 @@
 	rm ./collatz.log
 
 # Calculting the collatz conjecture 
+# committing to tomtest branch
  
 	clear
 	echo "=========================================="
