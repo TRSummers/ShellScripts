@@ -3,6 +3,7 @@
 
 # Calculting the collatz conjecture 
 # committing to tomtest branch
+# This is cool. You should try it.
  
 	clear
 	echo "=========================================="
