@@ -1,0 +1,142 @@
+Thomas R. Summers
+415.734-8044
+baritom@comcast.net
+
+SUMMARY
+
+•	Extensive experience in performance testing and engineering in vertical markets such as ecommerce, financial systems, software development, and biotech
+•	Experience with performance testing on multiple platforms including: Distributed web applications, Apache, TomCat, MuleSoft, AWS,  VMWare, Citrix,  WebSphere, WebLogic, Siebel, Oracle,  client/server and CICS/DB2 on MVS
+•	Load testing tools: Gatling, JMeter, Performance Center, LoadRunner, TPNS
+•	Experience with system monitoring tools: AppDynamics, AWS OpsWorks,  SiteScope, Keynote, Wily Introscope,
+•	 Management experience including developing teams responsible for performance testing and test automation 
+•	Experience in implementing Automated SQA Methodologies
+•	Scripting languages:  Bash and Korn Shells
+•	System Administration experience in UNIX and Linux
+•	DBA Experience: Oracle, DB2
+•	Languages:  C, HTML,  SQL, Scala
+
+
+Previous Experience
+
+Financial/Ecommerce
+
+Charles Schwab Corporation, San Francisco, Ca   
+Technical Director - Performance								
+Created a Performance Testing team for Charles Schwab Corporation’s Domestic Web Trading organization.
+•	Developed workload metrics
+•	Implemented Best Practices and evangelized performance though the development organization
+•	Created and implemented strategy for expansion of performance testing to incorporate multiple applications existing on the Domestic Web Trading platform, including middleware systems and databases
+•	Developed hybrid LoadRunner/Perl scripts to test new SOAP application under development
+•	Consulted with applications development groups throughout Schwab on the best methodologies and strategies for performance and capacity testing.  In some instances, this included hands off guidance to application developers and managers and at other times it involved hands-on interaction, including creating and presenting test plans, gathering requirements, creating and executing tests, analyzing results and presenting findings
+•	Mentored performance staff on the best practices of performance testing, including training in relevant tools, methodologies and practices
+•	Participated in the testing, tuning and configuring of IBM’s Websphere 
+•	Worked with Capacity Planning and applications staff to develop and execute extensive benchmark tests for the upgrade of mission critical Seibel application.  This involved coordination with multiple different technical and business areas in the negotiation of test scope, objectives and deadlines.
+•	Participated in a task force to improve the performance of Schwab’s Domestic Web Trading site.  In its early days, performance was far worse than competitor sites.  During the course of the task force, analysis of page weights, html compression, reduced graphics complexity and stringent development standards improved overall performance of the site by 70%.
+•	Met with vendors to assess usefulness of various tools and services to improve Schwab’s web site.  Included the implementation of Akamai hosting services, Keynote system monitoring, Fineground condenser technology, html compression services
+•	Developed initial performance test procedures for the web site.  Included development of LoadRunner scripts, scenarios and reports.  Initially, only very small scale tests were possible.  Gradually, additional functionality was added and tests became more robust and reflective of production systems.
+
+Senior Manager – Test Automation						 		
+•	Led team of test automation engineers in constructing a regression testing engine using Mercury’s WinRunner testing tool.  The solution being constructed was very sophisticated, using generic functions which allowed for data driven testing and provided portability between different applications
+
+Environment: LoadRunner, WebSphere, WebLogic, HTML, SOAP, SiteScope, Keynote, Wily Introscope, Linux, Perl, AIX, Oracle, XML, Prognosis, WinRunner, Test Director
+
+
+
+Wells Fargo Bank, San Francisco, Ca   
+Programmer/Analyst 										
+•	Designed and built automated regression testing suite for client/server branch delivery system
+•	Automated QA system maintenance through C programs and Korn shell scripts
+•	Acted as liaison to system administration group for technical issues and performend system administration tasks for QA department
+•	Began long term project to standardize makefiles among developers
+
+Application Systems Manager									
+•	Orchestrated migration of performance testing from mainframe CICS applications to client/server platform
+•	Assisted in development of performance test client/server environment for mission critical application
+•	Worked with bank and vendor staff to develop a client/server performance test methodology
+•	Designed and ran extensive series of application benchmarks using Mercury Interactive’s LoadRunner
+•	Developed and implemented yearly Performance Testing improvement plan
+•	Managed staff of 4 team members, including performance review and objective planning cycles, management of departmental budget and sizing of upcoming projects
+•	Developed test plans, coordinated testing activities and led in the analysis of client/server and mainframe performance tests
+
+Systems Programmer/Team Lead								
+•	Supervised performance staff
+•	Wrote annual performance reviews and objective plans
+•	Maintained documentation on TPNS test environment and procedures
+•	Maintained CICS and DB2 systems and incorporated new features
+•	Consulted with DBAs and CICS systems programmers to ensure accuracy of performance test environment
+•	Participated in analysis of test results working with bank, IBM and other verndor staff
+•	Reported test results to both technical and non-technical audiences
+•	Developed new methods and procedures for streamlining the performance testing process
+•	Created new programs and Clists to aid in the gathering of statistics and historical data
+
+Systems Programmer										
+•	Responsibilities included setup, execution and evaluation of high-volume CICS performance tests using TPNS
+•	Maintained TPNS scripts, networks and documentation
+•	Represented performance testing group during application development, analyzed and presented requirements necessary for functioning of performance tests
+•	Maintained CICS and DB2 environments using SQL, CICS RDO, DADS and FileAid
+•	Worked with applications programming staff to introduce new features into performance test environments
+
+
+Biotech/Pharma
+
+Genentech, South San Francisco, Ca 		
+Senior Performance Engineer									
+•	Education of business groups on performance engineering methodologies and best practices; Designed and executed enterprise-wide performance, scalability, soak and stress tests against locally developed and third-party applications, including cloud providers such as Google and Salesforce.com; Defining process for integrating self-service offering into our test automation and performance engineering services; Defining and evaluating mobile application testing and tools; Mentoring junior team members in best practices and methodology; Working with third-party development organizations – including cloud providers – in developing performance analyses appropriate to the core businesses we support; Driving upgrade from Performance Center 11.0 to 11.52
+•	Led global team in developing best practices for performance and test automation for international projects.
+•	Led team of performance engineers in the performance testing numerous internal projects, including a conversion of business critical manufacturing applications to VMWare ESX servers running CITRIX clients
+•	Led team of performance engineers in performance assessments of projects in GLP, GCP and GMP validated systems
+•	Developed officially sanctioned DCD, in conjunction with the GMP validation team, for performance testing validated projects
+•	Worked with key players to incorporate the Change Management group into a larger Project Lifecycle process
+•	Led effort to build a performance testing environment including web, application server and database tiers dedicated to performance testing Genentech’s internal support applications.
+
+
+Environment: LoadRunner, WebLogic, HPSM, BMS,  JMeter, HTML, SiteScope, Keynote, AIX, Oracle, Quick Test Pro, Performance Center, ALM
+
+
+
+Software Companies/Startups
+ 
+Datameer Corporation, San Francisco, Ca	
+Senior Performance Engineer									
+•	Building Gatling load test framework for our new cloud-based product 
+•	Designed and executed scaled tests to benchmark tests to assess optimal configurations based on recommendations by the enterprise architect
+•	Worked with local and remote (Germany) development teams to understand performance concerns
+•	Evangelized performance as a process throughout the organization
+
+Environment: Kubernetes, Snowflake, Spark, Gatling, Hadoop, Gradle, Jenkins, DBeaver, Kibana, Agile/Scrum, GitHub, JMeter, Keycloak, AWS, Gatling ODBC/JDBC interface
+
+
+Consensus Corporation, San Francisco, Ca	
+Senior Performance Engineer									
+•	Designed and built a performance testing framework using the Gatling load testing tool to be used on a complex workflow application. This involved workload planning and estimation, historical models and “Chaos Monkey” simulations
+•	Created and executed “Black Friday” simulations to ensure that our systems could handle the load of intense holiday traffic. Our application relies heavily on the success of Black Friday, so these are crucial to our success.
+•	Participated in POC exercises with Clustrix and Aurora databases
+•	Performed load tests against individual APIs as we migrated from our legacy application to our new distributed application
+•	Worked with development teams to ensure new features met or surpassed performance goals
+
+Environment: AWS, Jira, Jenkins, Mulesoft, Tomcat, Gatling, Scala, Jmeter, AppDynamics, Apache, Agile/Scrum, MySql, GitHub, Confluence, MongoDB, Splunk
+
+
+
+Health Systems Design Corporation, Oakland, Ca   
+Performance Architect										
+•	Responsible for planning, coordination and execution of very large performance tests to prove scalability of HSD’s client/server application.  Including:
+	2000 concurrent users running on Sequent NUMA-Q architecture 	
+	2000 concurrent users running on Sun Microsystems UE6000	
+Responsibilities for these endeavors included the following.
+Coordinated staff from hardware vendors, Oracle and HSD.  Designed approach, scope and test plan in conjunction with representatives from client and HSD management.  Worked with client analysts to determine necessary business requirements to accurately reflect their business model.  Developed and implemented performance testing procedures and methodologies.  Designed and created method for expanding database size from under 2 Gb to over 200 Gb.  Designed and created necessary testing components using PurePerformix C/S.  Worked with DBAs to design physical database layout.  Executed scaled tests in order to determine breaking points.  Ran database analysis to find bottlenecks and areas for tuning.  Developed results and analysis document to present findings to client.
+•	Developed overall performance testing methodology for reacting quickly to client benchmark or performance test requests
+•	Worked with systems architecture team in developing strategies for the use of new technologies in solving complex business problems.
+•	Developed in-house performance testing lab for repeatable scalability testing
+•	Developed procedures and guidelines for conducting performance analysis and bottleneck resolution
+•	Performed intensive performance analysis of EDI application components and recommended procedures to improve performance
+
+Environment: LoadRunner, PurePerformix C/S, Oracle, SQL*NET, SQL*LDR, Oracle Enterprise Manager, PowerBuilder, TeamQuest Baseline, Veritas VXVM, Solaris, HPUX, PLSQL, C
+
+
+
+EDUCATION:
+Central University of Iowa, Pella, IA
+Degree earned: B.A.
+Major:	Communications/Theatre
+Minor: 	Psychology
